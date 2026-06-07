@@ -1,0 +1,19 @@
+{
+    "name": "Pixygon.Anima",
+    "rootNamespace": "Pixygon.Anima",
+    "references": [
+        "Pixygon.Anima.Core",
+        "Pixygon.ID",
+        "Pixygon.Actors",
+        "Pixygon.Actors.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

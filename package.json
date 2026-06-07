@@ -1,0 +1,25 @@
+{
+  "name": "com.pixygon.anima",
+  "version": "0.1.0",
+  "displayName": "Pixygon - Anima",
+  "description": "Non-humanoid creatures — this universe's manifested fantasy life. Capturable, party-joinable (Pokemon/SMT-style), and ACCOUNT-OWNED: your animas are yours and travel between games. Permadeath stake: an anima still deployed in a game when you die is lost. Engine-portable core (species/instance/moves/types/bestiary/party) + a Unity adapter. Creatures = Actor + Anima.",
+  "unity": "2023.2",
+  "unityRelease": "14f1",
+  "documentationUrl": "https://www.pixygon.io/dev",
+  "dependencies": {
+    "com.pixygon.idsystem": "0.5.0",
+    "com.pixygon.actors": "0.1.0"
+  },
+  "hideInEditor": false,
+  "keywords": [
+    "Pixygon",
+    "Anima",
+    "Creatures",
+    "Monsters"
+  ],
+  "author": {
+    "name": "Pixygon",
+    "email": "pixygon@pixygon.io",
+    "url": "https://www.pixygon.io"
+  }
+}
